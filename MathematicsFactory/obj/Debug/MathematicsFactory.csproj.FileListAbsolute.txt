@@ -1,0 +1,12 @@
+C:\Users\Lateef Kareem\source\repos\MathematicsFactory\MathematicsFactory\obj\Debug\MathematicsFactory.csproj.CoreCompileInputs.cache
+C:\Users\Lateef Kareem\source\repos\MathematicsFactory\MathematicsFactory\bin\Debug\MathematicsFactory.dll
+C:\Users\Lateef Kareem\source\repos\MathematicsFactory\MathematicsFactory\bin\Debug\MathematicsFactory.pdb
+C:\Users\Lateef Kareem\source\repos\MathematicsFactory\MathematicsFactory\obj\Debug\MathematicsFactory.dll
+C:\Users\Lateef Kareem\source\repos\MathematicsFactory\MathematicsFactory\obj\Debug\MathematicsFactory.pdb
+C:\Users\Lateef Kareem\source\repos\MathematicsFactory\MathematicsFactory\obj\Debug\MathematicsFactory.csprojResolveAssemblyReference.cache
+C:\Users\talk2\Google Drive\repos\MathematicsFactory\MathematicsFactory\bin\Debug\MathematicsFactory.dll
+C:\Users\talk2\Google Drive\repos\MathematicsFactory\MathematicsFactory\bin\Debug\MathematicsFactory.pdb
+C:\Users\talk2\Google Drive\repos\MathematicsFactory\MathematicsFactory\obj\Debug\MathematicsFactory.csprojAssemblyReference.cache
+C:\Users\talk2\Google Drive\repos\MathematicsFactory\MathematicsFactory\obj\Debug\MathematicsFactory.csproj.CoreCompileInputs.cache
+C:\Users\talk2\Google Drive\repos\MathematicsFactory\MathematicsFactory\obj\Debug\MathematicsFactory.dll
+C:\Users\talk2\Google Drive\repos\MathematicsFactory\MathematicsFactory\obj\Debug\MathematicsFactory.pdb
